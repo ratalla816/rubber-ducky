@@ -39,7 +39,7 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
 **Internet Access**
  
   ## Usage
-  TBD
+  Covertly obtain wifi passwords from target networks through physical comprimise.
 
   ## Screenshot
   ![screenshot](./assets/images/attiny85.jpg)<br>
