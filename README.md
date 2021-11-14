@@ -22,9 +22,15 @@ Starts cmd in a small window in order to grabs less attention
 **2.** wifi-key-grab-min.ino:<br>
 Starts cmd in a small window but also hides the cmd by scrolling it down the screen method defined in hak5darren's rubberducky wiki [Payload hide cmd window](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---hide-cmd-window)
 
- 
+ ## Disclaimer
+
+ * All the software/scripts/applications/things in this repository are provided as is, without warranty of any kind. Use of these software/scripts/applications/things is entirely at your own risk. Creator of these softwares/scripts/applications/things is not responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these software/scripts/applications/things.
+ <br>
+ <br>
+  * This software/scripts/applications/things is NOT intended to be used for malicious purposes, but if you are using it for malicious purposes, you are responsible for all the consequences of your actions.
   ## Table of Contents
   - [Description](#description)
+  - [Disclaimer](#disclaimer)
   - [Documentation](#documentation)
   - [Usage](#usage)
   - [Screenshot](#screenshot)
@@ -39,13 +45,11 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
 **Internet Access**
  
   ## Usage
-  Covertly obtain wifi passwords from target networks through physical comprimise.
+  Covertly obtain wifi passwords for target network.
 
   ## Screenshot
   ![screenshot](./assets/images/attiny85.jpg)<br>
-<kbd>
-<img src="https://i.ibb.co/fkQv9tN/Untitled.png">
-</kbd>
+
 
   ## Features
   TBD
@@ -64,11 +68,11 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
 
 
   ## Testing
-**OS**: Windows 10 Pro
+**OS**: Windows 10 
 <br>
 **User**: Admin Priviliged
 <br>
-**Hardware**: ATtiny85 (Chinese)
+**Hardware**: ATtiny85 
 
   ## Contact:
   Holler at me! <a href="mailto:rob.atalla@robatalla816.com">rob.atalla@robatalla816.com</a>
