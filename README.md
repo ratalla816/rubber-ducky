@@ -25,9 +25,8 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
  ## Disclaimer
 
  * All the software/scripts/applications/things in this repository are provided as is, without warranty of any kind. Use of these software/scripts/applications/things is entirely at your own risk. Creator of these softwares/scripts/applications/things is not responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these software/scripts/applications/things.
- <br>
- <br>
-  * This software/scripts/applications/things is NOT intended to be used for malicious purposes, but if you are using it for malicious purposes, you are responsible for all the consequences of your actions.
+ 
+ * This software/scripts/applications/things is NOT intended to be used for malicious purposes, but if you are using it for malicious purposes, you are responsible for all the consequences of your actions.
   ## Table of Contents
   - [Description](#description)
   - [Disclaimer](#disclaimer)
