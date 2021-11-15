@@ -14,7 +14,7 @@
   
   ## Description
   
-  A rubber ducky grabs stored wifi passwords on windows and send them as plain text to your webhook page which you can see later. There are two different files and both have same functionalty the only difference is how cmd windows is going to be hidden from display.
+  A rubber ducky grabs stored wifi passwords on windows and sends them as plain text to your webhook page which you can see later. There are two different files and both have same functionalty the only difference is how cmd windows is going to be hidden from display.
 
 **1.** wifi-key-grab.ino:<br>
 Starts cmd in a small window in order to grabs less attention
@@ -67,7 +67,7 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
 <br>
 <https://webhook.site/>
 <br>
-**User**: Admin Priviliged
+**User**: Admin
 <br>
 **Hardware**: ATtiny85 
 <br>
