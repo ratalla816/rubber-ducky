@@ -34,26 +34,22 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
   - [Documentation](#documentation)
   - [Usage](#usage)
   - [Screenshot](#screenshot)
-  - [Features](#features)
   - [Acknowledgements](#acknowledgements)
   - [License](#license)
   - [Testing](#testing)
   - [Contact](#contact)
 
   ## Documentation
-  **Password Grabber**: https://webhook.site/ or any other request reflector of your choice<br>
-**Internet Access**
+  **Password Grabber** <https://webhook.site/><br>
+  **Arduino Compiler** <https://www.arduino.cc/reference/en/><br>
+  **Digistump Wiki** <http://digistump.com/wiki/digispark>
  
   ## Usage
-  Covertly obtain wifi passwords for target network.
+  Covertly obtain wifi passwords for penetration testing.
 
   ## Screenshot
   ![screenshot](./assets/images/attiny85.jpg)<br>
-
-
-  ## Features
-  TBD
-  
+  ![screenshot](./assets/images/compiled.jpg)<br>
   # Acknowledgements
   
   * Muhammad Talha Khan - MTK911
@@ -70,9 +66,14 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
   ## Testing
 **OS**: Windows 10 
 <br>
+<https://webhook.site/>
+<br>
 **User**: Admin Priviliged
 <br>
 **Hardware**: ATtiny85 
+<br>
+<br>
+![testing](./assets/images/webhook.jpg)
 
   ## Contact:
   Holler at me! <a href="mailto:rob.atalla@robatalla816.com">rob.atalla@robatalla816.com</a>
